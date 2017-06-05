@@ -1,11 +1,11 @@
 <!DOCTYPE html>
   <head>
      <meta charset = "utf-8">
-     <title>Currículo</title>
+     <h1>Currículo</h1>
   </head>
   
  <body>
-     <h1>Lucas Alexandre Souza Loiola</h1><br>
+     <h2>Lucas Alexandre Souza Loiola</h2><br>
      <p>Brasileiro, 20 anos, Solteiro</p>
        <hr>
      <pre>
