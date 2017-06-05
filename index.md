@@ -20,7 +20,7 @@
          <h2>Objetivo</h2>
            <ul>
              <li>
-               <p>Tecnologia da Informação</p>
+               <p>Ter experiência em Tecnologia da Informação</p>
              </li>
            </ul>
        </li>
