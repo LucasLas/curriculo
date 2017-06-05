@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <head>
+ <head>
      <meta charset = "utf-8">
      <h1>Currículo</h1>
   </head>
