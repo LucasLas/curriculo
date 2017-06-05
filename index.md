@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LucasLas/curriculo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LucasLas/curriculo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+  <head>
+     <meta charset = "utf-8">
+     <title>Currículo</title>
+  </head>
+  
+ <body>
+     <h1>Lucas Alexandre Souza Loiola</h1><br>
+     <p>Brasileiro, 20 anos, Solteiro</p>
+       <hr>
+     <pre>
+       CPF (BRA) (BR) 179.538.837-40 
+       Rua Comandante Rubens Silva 679, 22750-053, Freguesia Jacarépagua, rio de janeiro. 
+       lucas.a.s.loiola@gmail.com
+       21 98384-8588 
+       21 3413-1140
+     </pre>
+       <br>
+     <ul>
+       <li>
+         <h2>Objetivo</h2>
+           <ul>
+             <li>
+               <p>Tecnologia da Informação</p>
+             </li>
+           </ul>
+       </li>
+         <br>
+       <li>
+         <h2>Formação</h2>
+           <ul>
+             <li>
+               <h3>Escolaridade</h3>
+             </li>
+               <p>Ensino Médio (2° grau) completo. <br>
+     (Dezembro de 2021) - Cursando</p>
+            </ul>
+           </li>
+       <br>
+     <li>
+       <h3>Graduação</h3>
+         <p>Sistema de Informação, Veiga de Almeida</p>
+     </li>
+      <li>
+       <h2>Idiomas</h2>
+     </li>
+     <p>Inglês, Fluente, Brasas e intercâmbio de 6 meses.</p>
+     </ul>
+  </body>
